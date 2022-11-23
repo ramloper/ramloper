@@ -1,5 +1,5 @@
 <h1>Hello 👋</h1>
-I`m currently 
+I`m back-end developer
 
 
 
